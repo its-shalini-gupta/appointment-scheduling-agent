@@ -1,0 +1,10 @@
+{
+  "clinic_name": "HealthCare Plus Clinic",
+  "faqs": [
+    {"q": "Where are you located?", "a": "We're located at 123 Health St., Wellness City. Parking available behind the building."},
+    {"q": "What insurance do you accept?", "a": "We accept Blue Cross Blue Shield, Aetna, Cigna, UnitedHealthcare and Medicare."},
+    {"q": "What are your hours?", "a": "Mon-Fri 8:00 AM - 5:00 PM; Sat 9:00 AM - 12:00 PM; Sun closed."},
+    {"q": "What should I bring to my first visit?", "a": "A photo ID, insurance card, current medications list, and completed intake form if you have one."},
+    {"q": "What is your cancellation policy?", "a": "Cancel at least 24 hours in advance to avoid a cancellation fee."}
+  ]
+}

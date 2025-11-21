@@ -1,0 +1,8 @@
+{
+  "working_hours": {
+    "monday": ["09:00", "17:00"],
+    "tuesday": ["09:00", "17:00"],
+    "wednesday": ["09:00", "17:00"]
+  },
+  "appointments": []
+}
