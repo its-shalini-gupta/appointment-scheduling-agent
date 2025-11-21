@@ -3,9 +3,12 @@ Project Setup Guide
 📌 Frontend Setup
 
 1️⃣ Install dependencies
-npm install axios
-npm install axios clsx
 npm install
+npm install axios
+
+npm install axios clsx
+
+
 
 2️⃣ Install TailwindCSS
 npm install -D tailwindcss postcss autoprefixer
@@ -33,7 +36,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 4️⃣ Run the backend server (FastAPI)
-uvicorn backend.main:app --reload --port 8000
+uvicorn backend.main:app --reload --port 8001
 
 ✅ Both servers running
 
