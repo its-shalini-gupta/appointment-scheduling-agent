@@ -1,5 +1,7 @@
 Project Setup Guide
+
 📌 Frontend Setup
+
 1️⃣ Install dependencies
 npm install axios
 npm install axios clsx
